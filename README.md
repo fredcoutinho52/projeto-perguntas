@@ -1,6 +1,6 @@
 # Projeto Perguntas
 
-A new Flutter project.
+Aplicativo que gera perguntas feito em Flutter seguindo o projeto do curso Aprenda Flutter & Dart e Construa APPs iOS e Android da Cod3r Cursos.
 
 ## Getting Started
 
